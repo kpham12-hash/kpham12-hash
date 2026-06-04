@@ -1,16 +1,32 @@
 ## Hi there 👋
 
+Hey, I'm Kevin Pham — a Computer Science student at Delaware County Community College.
 
-**kpham12-hash/kpham12-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+* 💻 Interested in software engineering, Artificial Intelligence, and Machine Learning
+* 🤖 Exploring how AI tools (like Claude) can assist in building backend and frontend applications
+* 📍 Based in Pennsylvania
 
-- 🔭 I’m currently working on this page right now.
-- 🌱 I’m currently learning to use GitHub to my full potential. 
-- 👯 I’m looking to collaborate on future AI (Artificial Intelligence) or Coding Projects in the future. 
-- 🤔 I’m looking for help with learning to code in Python and on Svelte, and React. 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Currently
+
+* 🔭 Improving my GitHub profile and building projects
+* 🌱 Learning Python, Machine Learning basics, and modern web frameworks (Svelte, React)
+* 🧠 Completed Claude 101 Certification
+
+## 🤝 Collaboration
+
+* 👯 Open to collaborating on AI or coding projects
+* 🤔 Looking for guidance in Python, Machine Learning, and web development
+
+## 📫 Contact
+
+* Instagram: @kevinpham.37
+* LinkedIn: kevin-pham-94013a280
+* Email: [kevinxpham.dev@gmail.com]
+
+## ⚡ Fun Fact
+
+* Big fan of Atlassian Williams F1 Team in Formula 1 🏁
+
   
