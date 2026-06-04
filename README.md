@@ -16,12 +16,6 @@ Hey, I'm Kevin Pham — a Computer Science student at Delaware County Community 
 
 ## 📂 Projects
 
-### 🔐 Password Generator (Scratch)
-
-* Built a customizable password generator using logic-based blocks
-* Implemented randomization and user input handling
-* Part of a larger set of Scratch-based projects
-
 ### 🎮 Scratch Project Collection (9 Projects)
 
 * Completed a series of 9 projects as part of an introductory programming certification
@@ -65,11 +59,12 @@ Hey, I'm Kevin Pham — a Computer Science student at Delaware County Community 
 
 * Instagram: @kevinpham.37
 * LinkedIn: kevin-pham-94013a280
-* Email: kevinxpham.dev@gmail.com
+* Email: [kevinxpham.dev@gmail.com](mailto:kevinxpham.dev@gmail.com)
 
 ## ⚡ Fun Fact
 
 * Big fan of the Williams Racing in Formula 1 🏁
+
 
 
   
