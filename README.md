@@ -57,7 +57,6 @@ Hey, I'm Kevin Pham — a Computer Science student at Delaware County Community 
 
 ## 📫 Contact
 
-* Instagram: @kevinpham.37
 * LinkedIn: kevin-pham-94013a280
 * Email: kevinxpham.dev@gmail.com
 
