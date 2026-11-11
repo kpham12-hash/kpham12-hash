@@ -4,14 +4,14 @@ Hey, I'm Kevin Pham — a Cloud Computing student at Delaware County Community C
 
 ## 👨‍💻 About Me
 
-* 💻 Interested in software engineering, Artificial Intelligence, and Machine Learning
+* 💻 Interested in software engineering, Cloud Computing, Artificial Intelligence, and Machine Learning
 * 🤖 Exploring how AI tools (like Claude) can assist in building backend and frontend applications
 * 📍 Based in Pennsylvania
 
 ## 🚀 Currently
 
 * 🔭 Improving my GitHub profile and building projects
-* 🌱 Learning Python, Machine Learning basics, and modern web frameworks (Svelte, React)
+* 🌱 Learning Python, Basic Cloud Concepts, and modern web frameworks (Python, HTML, CSS, SQL)
 * 🧠 Completed Claude 101 Certification
 
 ## 📂 Projects (In Progress)
@@ -31,7 +31,7 @@ Hey, I'm Kevin Pham — a Cloud Computing student at Delaware County Community C
 
 ### 🐍 Python Mini Projects (So Far)
 
-* Developing small programs to practice core concepts (loops, functions, conditionals)
+* Developed small programs to practice core concepts (loops, functions, conditionals)
 * Examples include:
 
   * Number guessing game
