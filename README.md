@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hey, I'm Kevin Pham — a Computer Science student at Delaware County Community College.
+Hey, I'm Kevin Pham — a Cloud Computing student at Delaware County Community College. An inspiring Cloud Software Engineer. 
 
 ## 👨‍💻 About Me
 
@@ -14,7 +14,9 @@ Hey, I'm Kevin Pham — a Computer Science student at Delaware County Community 
 * 🌱 Learning Python, Machine Learning basics, and modern web frameworks (Svelte, React)
 * 🧠 Completed Claude 101 Certification
 
-## 📂 Projects
+## 📂 Projects (In Progress)
+
+* My Portfolio Website
 
 ### 🎮 Scratch Project Collection (9 Projects)
 
@@ -27,13 +29,14 @@ Hey, I'm Kevin Pham — a Computer Science student at Delaware County Community 
   * Event-driven programming
 * Built interactive games and logic-based applications
 
-### 🐍 Python Mini Projects (In Progress)
+### 🐍 Python Mini Projects (So Far)
 
 * Developing small programs to practice core concepts (loops, functions, conditionals)
 * Examples include:
 
   * Number guessing game
   * Basic calculator
+  * Rock, Paper, Scissors Games
 * Goal: build a strong foundation before advanced topics like Machine Learning
 
 ### 🤖 AI-Assisted Development Experiments
